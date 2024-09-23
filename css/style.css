@@ -180,7 +180,7 @@ body {
 /* landing section */
 
 .landing {
-  background-image: url(imge/landing.jpg);
+  background-image: url("https://elzerowebschool.github.io/HTML_And_CSS_Template_One/images/landing.jpg");
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
